@@ -10,5 +10,5 @@
 {mod, {mydivi_app,[]}},
 {start_phases, []},
 {git_path,"https://github.com/joq62/mydivi.git"},
-{constraints,[{host,"c100"}]}  %{hw,hw_spec}|{port,port_num}
+{constraints,[{host,h201@c100'}]}  %{hw,hw_spec}|{port,port_num}
 ]}.
